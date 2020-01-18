@@ -1,6 +1,7 @@
 pragma solidity 0.5.0;
 
 import "./ERC721Full.sol";
+// DC - Don't do this for production projects, it's for demo purpose to avoid code break down due to the hosting url update
 
 contract Color is ERC721Full {
   string[] public colors;
