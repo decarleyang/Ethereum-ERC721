@@ -1,8 +1,8 @@
 {
-  "name": "eth-marketplace",
+  "name": "Ethereum ERC721 Demo",
   "version": "0.1.0",
-  "description": "An Ethereum Marketplace",
-  "author": "gregory@dappuniversity.com",
+  "description": "Ethereum ERC721 Demo",
+  "author": "canblockchain@gmail.com",
   "dependencies": {
     "@openzeppelin/contracts": "^2.3.0",
     "babel-polyfill": "6.26.0",
